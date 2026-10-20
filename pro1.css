@@ -1,0 +1,47 @@
+*{
+    font-family: 'Times New Roman';
+}
+
+p{
+    text-align: center;
+    line-height: 2px;
+    line-height: 3;
+    line-height: normal;
+    text-transform: none;
+}
+
+.heading{
+    color: red;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline solid;
+    font-weight: 600;
+    font-family: arial;
+    text-transform: capitalize;
+}
+
+h2{
+    text-decoration: underline;
+    font-family: 'Times New Roman';
+}
+
+h3{
+    font-size: 20px;
+}
+button{
+    background-color: green;
+}
+
+a{
+    text-decoration: none;
+}
+
+#outer{
+    font-size: 25px;
+}
+
+#inner{
+    font-size: 10px;
+}
