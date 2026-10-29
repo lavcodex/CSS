@@ -1,0 +1,18 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-template-rows: 200px 200px 200px;
+    gap:1em;
+    grid-template-areas: 
+        "one two three"
+        "one five five";
+}
+
+.item{
+    padding: 2em;
+    background-color: blue;
+    color: black;
+    text-align: center;
+    border-radius: 8px;
+    font-size: 2rme;
+}
